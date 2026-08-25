@@ -1,7 +1,0 @@
-1. application_train.csv
-2. bureau_balance.csv
-3. bureau.csv
-4. credit_card_balance.csv
-5. installments_payments.csv
-6. POS_CASH_balance.csv
-7. previous_application.csv
